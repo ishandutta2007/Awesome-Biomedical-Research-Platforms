@@ -72,7 +72,7 @@ The global bioinformatics and biomedical research software market is valued at a
 
 *Production-ready, vendor-independent open-source platforms and tool suites for self-hosted biomedical research, ranked by GitHub stargazer popularity ⭐.*
 
-| 📦 Project | ⭐ Stars | 🎯 Primary Purpose | 🛠️ Tech Stack / License |
+| 📦 Project | ⭐ GitHub_Stars | 🎯 Primary Purpose | 🛠️ Tech Stack / License |
 | :--- | :--- | :--- | :--- |
 | **[Pachyderm](https://github.com/pachyderm/pachyderm)** | [![Stars](https://img.shields.io/github/stars/pachyderm/pachyderm?style=social&color=white)](https://github.com/pachyderm/pachyderm/stargazers) | Data versioning, git-like data lineage, and containerized workflow orchestration for data-driven pipelines 📦. | Go / Apache-2.0 |
 | **[Nextflow](https://github.com/nextflow-io/nextflow)** | [![Stars](https://img.shields.io/github/stars/nextflow-io/nextflow?style=social&color=white)](https://github.com/nextflow-io/nextflow/stargazers) | Scalable, portable dataflow programming framework for reproducible bioinformatics pipelines across Slurm, AWS Batch, and k8s 🚀. | Groovy, Java / Apache-2.0 |
